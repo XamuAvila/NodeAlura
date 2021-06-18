@@ -1,3 +1,5 @@
+// ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'admin';
+// flush privileges;
 const mysql = require('mysql')
 
 const conexao = mysql.createConnection({
