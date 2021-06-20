@@ -1,1 +1,3 @@
 /node_modules
+/.vscode
+/servicos/node_modules
